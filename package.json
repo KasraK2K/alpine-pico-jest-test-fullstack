@@ -14,5 +14,8 @@
   "scripts": {
     "test": "NODE_ENV=local jest",
     "start": "NODE_ENV=local node nodemon.js"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.2"
   }
 }
